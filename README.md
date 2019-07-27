@@ -4,7 +4,7 @@
 
 Shows you how long each Webpack plugin takes during `gatsby build` which may help you pinpoint problems in slow builds.
 
-![Preview of Gatsby Plugin Webpack Speed Measure output](preview-smp.png)
+![Preview of Gatsby Plugin Webpack Speed Measure output](https://github.com/crunchtime-ali/gatsby-plugin-webpack-speed-measure/raw/master/preview-smp.png)
 
 ## Background
 
