@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-webpack-speed-measure",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Shows you how long each Webpack plugin takes during gatsby build which may help you pinpoint problems in slow builds.",
   "main": "index.js",
   "scripts": {
