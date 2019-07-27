@@ -1,5 +1,8 @@
 <div align="center">
   <h1>⏱Gatsby Plugin Webpack Speed Measure</h1>
+
+  <a href="https://npmjs.com/gatsby-plugin-webpack-speed-measure"><img src="https://img.shields.io/npm/dw/gatsby-plugin-webpack-speed-measure.svg" /></a>
+  <a href="https://npmjs.com/package/gatsby-plugin-webpack-speed-measure"><img src="https://img.shields.io/node/v/gatsby-plugin-webpack-speed-measure.svg" /></a>
 </div>
 
 Shows you how long each Webpack plugin takes during `gatsby build` which may help you pinpoint problems in slow builds.
